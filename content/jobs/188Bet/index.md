@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2014-08-01'
+title: 'Product Manager'
+company: '188BET'
+location: 'Manila, PH'
+range: 'Jun 2009 - Aug 2014'
+url: 'https://www.188bet.com/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

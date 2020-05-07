@@ -1,8 +1,10 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Eugene Yap'
+subtitle: 'I build & break stuff.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm was a senior tech product & project manager based in Tokyo for the largest e-Commerce Company in Japan and I worked on building and shipping ML driven applications, platforms and technologies.
+
+<!--- SECTION COMPLETED!>

@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2015-07-01'
+title: 'Tech Product Manager'
+company: 'EveryMatrix'
+location: 'London, UK'
+range: 'Aug 2014 - Jul 2015'
+url: 'https://everymatrix.com/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

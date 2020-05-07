@@ -1,19 +1,24 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './profilepicture.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - HTML, (S)CSS & ES6+
+  - React, Node.js
+  - Python3, Anaconda, Jupyter
+  - Pandas, NumPy, Matplotlib
+  - Sklearn, Tensorflow2.0, Keras
+  - PostgreSQL, MongoDB,
+  - Hadoop, HIVE
+  - JIRA, Confluence, Git
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello, I'm Eugene! I used to be a senior tech product and project manager based in Tokyo, Japan. As of 2020, I'm now based in Daejeon, South Korea.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy building and shipping things that leverage on technology to help people reduce complexity in their lives by using systems or platforms built on machine learning. Whether it's a website or an app powered by AI or anything in between, my goal is to ship products that provide value, ease-of-use & performance to my users.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I started out in tech product management after being assigned the role during my time in [188BET](https://www.188bet.com/) in 2009 and served as a product manager there till 2014.
+From there, I gained further experience working in different industries and countries in tech and engineering positions before joining [Rakuten](https://www.rakuten.co.jp/) in 2017 where I worked on projects in the Japan Tech Division.
 
-Here are a few technologies I've been working with recently:
+Here are some tools & technologies that I'm familiar with:
+
+<!--- SECTION COMPLETED!>

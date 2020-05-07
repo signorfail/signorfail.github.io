@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2019-11-01'
+title: 'Senior Product & Project Manager'
+company: 'Rakuten'
+location: 'Tokyo, JP'
+range: 'Apr 2017 - Nov 2019'
+url: 'https://www.rakuten.co.jp'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern

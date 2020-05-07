@@ -1,6 +1,9 @@
 ---
 title: 'Get In Touch'
-buttonText: 'Say Hello'
+buttonText: 'Get In Touch'
 ---
 
-Although I'm not currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+If you would like to get in touch with me to discuss any opportunities that you may have or just to have a chat, my inbox is always open.  
+Whether you have a question or just want to say 'hi', I'll do my best to get back to you soonest possible!
+
+<!--- SECTION COMPLETED!>
