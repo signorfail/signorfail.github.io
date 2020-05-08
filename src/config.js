@@ -1,56 +1,52 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Eugene Yap | Product Manager',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Eugene is a tech product manager based in South Korea who specializes in data intensive applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Eugene Yap, Eugene Y, , signorfail, tech, product manager, project manager, Rakuten, machine learning, AI',
+  siteUrl: 'https://.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Eugene Yap',
+  location: 'KR',
+  email: 'signorfail@gmail.com',
+  github: 'https://github.com/signorfail/',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/signorfail/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/yapeugene/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: '',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: '',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'About Me',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Job Experience',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Things I\'ve Done',
       url: '/#projects',
     },
     {
-      name: 'Contact',
+      name: 'Contact Me',
       url: '/#contact',
     },
   ],

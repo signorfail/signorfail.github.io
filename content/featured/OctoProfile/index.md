@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Personalized Item Recommendations'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: ''
+external: 'https://www.rakuten.co.jp/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Machine Learning
+  - Hadoop
+  - Aerospike
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Rakuten Japan users were recommended items based on their event history such as browsing and purchases. Items were scored and recommendations for each user were generated based on features such as frequency of item purchase, keywords used etc.

@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Starhub Data Management Platform'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: ''
+external: 'https://www.starhub.com/sfapi/rcskmesbapi/km/businessapi/retrieveKMAssets/file/StarHub_Advertising_solutions_Time1567755087071.pdf?contentID=dqyiz1hEzw4YsUUmGm7kI6&lang=en-GB&version=1.0&source=SHDotcom'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - REST APIs
+  - ES6
+  - HTML
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Starhub's user data was collected and segmented in the DMP for internal and external 3rd party ad targeting. Out-of-home and 2nd party data was also collected by using wifi hotspots provisioned by Starhub at public areas in Singapore.

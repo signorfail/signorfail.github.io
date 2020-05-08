@@ -7,6 +7,6 @@ range: 'Nov 2016 - Apr 2017'
 url: 'https://www.starhub.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Product manager of the Company’s data management platform for user segmentation and targeting.
+- This project required end-to-end product delivery from approval to release within a short timeframe of 1 quarter, which the team achieved within time and budget.
+- Worked closely with Oracle’s technical team to setup the Bluekai system and assisted 3rd party partners in troubleshooting onboarding issues.

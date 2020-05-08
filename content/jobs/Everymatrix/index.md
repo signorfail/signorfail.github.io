@@ -7,5 +7,6 @@ range: 'Aug 2014 - Jul 2015'
 url: 'https://everymatrix.com/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- I was the tehnical product manager for the Company's APIs as well as being the mobile product manager.
+- Conducted market research and A/B tests regularly for the brand new mobile product & presented to C-level often to obtain approval for developing different product lines or features for different user categories.
+- During my time here, I improved the Company's risk & compliance procedures & policies by creating detailed documentation on my department's processes and procedures.

@@ -7,6 +7,6 @@ range: 'Apr 2017 - Nov 2019'
 url: 'https://www.rakuten.co.jp'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Product owner for Rakuten's cost-per-action & cost-per-click user recommended search advertising.
+- Worked with engineers and data science team to build an end-to-end pipeline & platform that used machine learning to generate daily recommendations of items that a user might be interested in.
+- Our product grew to become the 2nd largest revenue stream from the Company's eCommerce site within a year of the initial release.

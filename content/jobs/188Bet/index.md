@@ -7,6 +7,5 @@ range: 'Jun 2009 - Aug 2014'
 url: 'https://www.188bet.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Overall product owner for the technical & commercial aspects of the desktop site & mobile app.
+- Assisted legal & compliance team in resolving certain issues such as drafting contracts with data provision partners certain terms and licensing issues or enquiries from regulatory bodies such as the UK gambling Commission.

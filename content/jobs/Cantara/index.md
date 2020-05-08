@@ -7,7 +7,6 @@ range: 'Jul 2015 - Sep 2016'
 url: 'https://www.cantara.global/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- As this was a startup, I performed various duties such as management of hardware inventory & software systems used by the Company.
+- I was also involved in planning, testing, deploying, maintaining and performing sysadmin and devops for the Company’s front and backend systems along with a small team.
+- Worked with our in-house media team to manipulate media such as videos and images to add value such as adding subtitling or translations using Adobe Photoshop & Premiere Pro.
