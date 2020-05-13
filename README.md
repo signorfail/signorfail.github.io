@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
