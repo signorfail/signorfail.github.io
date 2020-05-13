@@ -1,15 +1,17 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Site Project",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Eugene Yap <signorfail@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/signorfail/siteproject"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "react"
   ],
+  "homepage": "https://signorfail.github.io/signorfail",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
