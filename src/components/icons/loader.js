@@ -1,6 +1,15 @@
 import React from 'react';
 
-const IconLoader = () => (
+const IconLoader = () =>  {
+  return (
+    <div className=''>
+      <title>Loading Page</title>
+      <p>Loading</p>
+    </div>
+  );
+}
+
+/*(
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>Loader Logo</title>
     <g>
@@ -24,6 +33,6 @@ const IconLoader = () => (
       />
     </g>
   </svg>
-);
+);*/
 
 export default IconLoader;

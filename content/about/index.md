@@ -12,12 +12,12 @@ skills:
   - JIRA, Confluence, Git
 ---
 
-Hello, I'm Eugene! I used to be a senior tech product and project manager based in Tokyo, Japan. As of 2020, I'm now based in Daejeon, South Korea.
+Hello, I'm Eugene! I was a senior tech product and project manager based in Tokyo, Japan. I'm now based in South Korea.
 
-I enjoy building and shipping things that leverage on technology to help people reduce complexity in their lives by using systems or platforms built on machine learning. Whether it's a website or an app powered by AI or anything in between, my goal is to ship products that provide value, ease-of-use & performance to my users.
+I enjoy working with people to build things that leverage on technology to help people, teams and organizations reduce complexity by collecting, analyzing, and  acting upon data with the help of machine learning. Whether it's a website or an app or anything in between, my goal is to create something with value, efficiency and performance for my users.
 
-I started out in tech product management after being assigned the role during my time in [188BET](https://www.188bet.com/) in 2009 and served as a product manager there till 2014.
-From there, I gained further experience working in different industries and countries in tech and engineering positions before joining [Rakuten](https://www.rakuten.co.jp/) in 2017 where I worked on projects in the Japan Tech Division.
+I started out in product management after being assigned the role during my time in [188BET](https://www.188bet.com/) in 2009, and I served as the primary product manager reporting directly to the CEO until 2014.
+From there, I gained further experience working within different industries and countries before joining [Rakuten](https://www.rakuten.co.jp/) in 2017 where I worked on projects involving AI in the Japan Tech Division.
 
 Here are some tools & technologies that I'm familiar with:
 

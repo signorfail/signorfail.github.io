@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://github.com/signorfail/v4')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -101,11 +101,16 @@ const Footer = () => {
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
+      
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://www.linkedin.com/in/yapeugene/"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang &amp; Eugene Yap </div>
+          <div>
+            <p className='footerText f6 center'>
+                       {new Date().getFullYear()} - Developed by Eugene Yap
+            </p>
+          </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
@@ -130,3 +135,4 @@ Footer.propTypes = {
 };
 
 export default Footer;
+{/*Original design by Brittany Chiang @ www.brittanychiang.com*/}

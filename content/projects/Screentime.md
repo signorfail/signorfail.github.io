@@ -1,15 +1,13 @@
 ---
-date: '2016-11-01'
-title: 'Screentime 2.0'
+date: '2020-01-0/'
+title: 'Personal Website'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+external: ''
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
-company: 'Starry'
+  - React
+  - Gatsby
+company: ''
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+This site about my experience and things that I've done that was built using React and Gatsby.

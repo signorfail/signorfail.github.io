@@ -146,9 +146,9 @@ const Projects = ({ data }) => {
   return (
     <StyledContainer>
       <StyledTitle ref={revealTitle}>Personal Projects</StyledTitle>
-      <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
+      {/*<StyledArchiveLink to="/archive" ref={revealArchiveLink}>
         view the archive
-      </StyledArchiveLink>
+  </StyledArchiveLink> commented out this portion*/}
 
       <StyledGrid>
         <TransitionGroup className="projects">
@@ -216,9 +216,9 @@ const Projects = ({ data }) => {
         </TransitionGroup>
       </StyledGrid>
 
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
+      {/*<StyledMoreButton onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
+          </StyledMoreButton> BUTTON COMMENTED OUT*/}
     </StyledContainer>
   );
 };

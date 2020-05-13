@@ -22,14 +22,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/yapeugene/',
     },
-    {
-      name: 'Instagram',
-      url: '',
-    },
-    {
-      name: 'Twitter',
-      url: '',
-    },
   ],
 
   navLinks: [

@@ -7,5 +7,6 @@ range: 'Jun 2009 - Aug 2014'
 url: 'https://www.188bet.com/'
 ---
 
-- Overall product owner for the technical & commercial aspects of the desktop site & mobile app.
-- Assisted legal & compliance team in resolving certain issues such as drafting contracts with data provision partners certain terms and licensing issues or enquiries from regulatory bodies such as the UK gambling Commission.
+- I was promoted to the role in 2009. Previously, I was a quantitative trader and later, a trading trainer/ researcher responsible for opening and managing German, Italian & Eastern European markets from 2007-2009.
+- As the overall product owner, I responsible for the technical & commercial performance of the desktop site frontend & the mobile app offering.
+- I assisted our legal & compliance team in regularly resolving issues or enquiries from regulatory bodies such as the UK Gambling Commission.
