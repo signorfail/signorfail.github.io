@@ -1,5 +1,5 @@
 ---
-date: '2020-01-0/'
+date: '2020-01-08/'
 title: 'Personal Website'
 github: ''
 external: ''
